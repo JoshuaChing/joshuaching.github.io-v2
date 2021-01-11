@@ -1,12 +1,15 @@
-import * as React from "react"
+import * as React from "react";
+import ProfileContainer from "../components/profile/profileContainer";
 
-// markup
+require('./app.module.scss');
+
 const IndexPage = () => {
   return (
     <main>
       <title>Joshua Ching</title>
+      <ProfileContainer></ProfileContainer>
     </main>
   )
 }
 
-export default IndexPage
+export default IndexPage;

@@ -1,7 +1,8 @@
-import * as React from "react"
-import { Link } from "gatsby"
+import * as React from "react";
+import { Link } from "gatsby";
 
-// markup
+require('./app.module.scss');
+
 const NotFoundPage = () => {
   return (
     <main>
@@ -11,4 +12,4 @@ const NotFoundPage = () => {
   )
 }
 
-export default NotFoundPage
+export default NotFoundPage;
