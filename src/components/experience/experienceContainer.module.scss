@@ -1,0 +1,18 @@
+@import "../../common/common.module.scss";
+
+.container {
+    width: 100%
+}
+
+.table {
+    width: 100%;
+    text-align: left;
+    text-transform: uppercase;
+    font-size: $mediumTextSize;
+    letter-spacing: $regularTextSpacing;
+}
+
+.subRow {
+    font-size: $smallTextSize;
+    text-indent: $regularTextIndent;
+}

@@ -1,5 +1,7 @@
 @import "../../../common/common.module.scss";
 
 .headerText {
-    font-size: $headerTextSize;
+    font-size: $titleTextSize;
+    letter-spacing: $titleTextSpacing;
+    text-transform: uppercase;
 }

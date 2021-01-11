@@ -1,5 +1,6 @@
 @import "../../../common/common.module.scss";
 
 .descriptionText {
-    font-size: $regularTextSize;
+    font-size: $largeTextSize;
+    letter-spacing: $smallTextSpacing;
 }

@@ -1,4 +1,4 @@
-joshuaching.github.io v2 in progress
+joshuaching.github.io v2 [WIP]
 ==================
 
 This is my personal website responsively designed and developed by me!

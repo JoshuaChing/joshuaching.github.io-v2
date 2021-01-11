@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import "../common/common.module.scss";
 
 body {
     font-family: 'Montserrat', sans-serif;
+    background-color: $cloud;
 }

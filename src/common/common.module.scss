@@ -1,3 +1,15 @@
+// colors
+$cloud: #ecf0f1;
+
 // common styling for texts
-$headerTextSize: 55px;
-$regularTextSize: 16px;
+$titleTextSpacing: 10px; // used in: profileHeader
+$regularTextSpacing: 2px; // used in: header, experienceContainer
+$smallTextSpacing: 1px; // used in: profileDescription
+
+$titleTextSize: 55px; // used in: profileHeader
+$headerTextSize: 20px; // used in: header
+$largeTextSize: 16px; // used in: profileDescription
+$mediumTextSize: 12px; // used in: experienceContainer
+$smallTextSize: 10px; // used in: experienceContainer
+
+$regularTextIndent: 18px; // used in: experienceContainer
